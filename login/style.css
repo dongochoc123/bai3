@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.menu {
+    margin-right: 50px;
+    margin-top: 10px;
+}
+
+.nav-item a {
+    font-size: 18px;
+    color: black;
+}
+
+.log {
+    width: 90%;
+    text-align: center;
+    margin: auto;
+}
+
+.login {
+    display: flex;
+    padding: 50px;
+    margin-top: 10px;
+}
+
+.wapper {
+    width: 60%;
+    text-align: initial;
+    padding-left: 20px;
+}
+
+.wapper h1 {
+    font-weight: 400;
+}
+
+.wapper a {
+    text-decoration: none;
+}
+
+.wapper p {
+    margin-top: 20px;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.wapper input {
+    height: 60px;
+    width: 450px;
+    border-radius: 30px;
+    border: 1px solid #8699DA;
+    padding-left: 20px;
+    outline: none;
+}
+
+.wapper label {
+    font-size: 20px;
+    padding-bottom: 20px;
+    font-family: initial;
+}
+
+#checkbox {
+    width: 15px;
+    height: 13px;
+    border-radius: 100%;
+}
+
+#remember-me {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#remember {
+    float: right;
+    padding-right: 350px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#submit {
+    background-color: #8699DA;
+    color: white;
+    text-align: center;
+    padding-right: 40px;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: cursive;
+}
+
+#orther {
+    padding-left: 150px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+
+
+.icon {
+    display: flex;
+}
+
+.icon li {
+    padding: 0px 10px;
+}
+
+.icon li a img {
+    width: 100px;
+}
+
+.img {
+    width: 60%;
+}
+
+#Exlorer {
+    width: 700px;
+    display: flex;
+}
+
+#vector {
+    width: 200px;
+    float: right;
+    margin-right: 100px;
+}
